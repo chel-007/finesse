@@ -1,0 +1,17 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600&family=Josefin+Sans:ital,wght@0,100..700;1,100..700&display=swap");
+@import "@firecms/ui/index.css";
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  font-family: "Josefin Sans", sans-serif;
+  font-weight: 350;
+}
+
+:root {
+    --fcms-primary: #0070F4;
+    --fcms-primary-bg: #0061e610;
+    --fcms-secondary: #FF5B79;
+}
