@@ -18,6 +18,7 @@ firebase-debug.*.log*
 # .firebaserc
 
 .env 
+dist/
 # Runtime data
 pids
 *.pid

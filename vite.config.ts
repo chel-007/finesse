@@ -26,7 +26,6 @@ export default defineConfig({
                 "@firebase/app",
                 "@firebase/firestore",
                 "@firebase/functions",
-                "@firebase/auth",
                 "@firebase/storage",
                 "@firebase/analytics",
                 "@firebase/remote-config",
